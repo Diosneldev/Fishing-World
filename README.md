@@ -1,2 +1,2 @@
-# Fishing-World
-Ecommerce-django (tienda virtual de articulos de pesca y camping) proyecto final coder house.
+# ECOM
+Ecommerce-django (tienda virtual de articulos) PROYECTO FINAL CODER HOUSE
